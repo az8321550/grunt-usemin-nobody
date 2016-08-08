@@ -1,6 +1,6 @@
 {
   "name": "grunt-usemin-nobody",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "nobody"
@@ -14,9 +14,9 @@
     "css",
     "optimize"
   ],
-  "homepage": "https://github.com/az8321550/grunt-usemin-nobody",
+  "homepage": "https://github.com/bodyno/grunt-usemin-nobody",
   "bugs": {
-    "url": "https://github.com/az8321550/grunt-usemin-nobody/issues"
+    "url": "https://github.com/bodyno/grunt-usemin-nobody/issues"
   },
   "dependencies": {
     "chalk": "~0.5.1",
